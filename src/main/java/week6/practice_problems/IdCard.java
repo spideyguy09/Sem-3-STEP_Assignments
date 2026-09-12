@@ -1,4 +1,4 @@
-package week6.assigment_problems;
+package week6.practice_problems;
 
 /**
  * M4. Library ID Card Management

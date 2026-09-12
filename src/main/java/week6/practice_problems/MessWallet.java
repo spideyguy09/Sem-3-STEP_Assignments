@@ -1,4 +1,4 @@
-package week6.assigment_problems;
+package week6.practice_problems;
 
 /**
  * M2. Hostel Mess Wallet Management
