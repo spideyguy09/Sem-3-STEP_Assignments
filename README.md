@@ -20,3 +20,4 @@ Code inside the feature branches is structured into two main sub-packages per to
 - **Week 1**: Implemented 5 practice problems (Rock-Paper-Scissors, Palindrome Checker, BMI Calculator, First Non-Repeating Character, Reverse Customer Name).
 - **Week 2**: Implemented 5 practice problems (Bank Transaction Validator, File Extension Validator, Masked Phone Number, Student Record Parser, Vowel Consonant Counter) and 5 assignment problems.
 - **Week 4**: Implemented 5 practice problems (Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Sorted Arrays, Rotate Array).
+- **Week 5**: Implemented 5 practice problems (Hackathon Score Curve Booster, Duplicate Team Name Finder, Top-3 Podium Finder, Hackathon Seating Grid Optimizer, Placement Drive Shortlisting & Ranking Engine).
